@@ -1,0 +1,1 @@
+# A-spatial-analytics-approach-for-the-ripeness-estimation-inside-a-vineyard
